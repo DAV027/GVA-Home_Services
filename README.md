@@ -33,8 +33,8 @@ A cross-platform mobile application built using **React Native** and **Expo**, d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/home-service-app.git
-cd home-service-app
+git clone https://github.com/DAV027/GVA-Home_Services.git
+cd GVA-Home_Services
 ```
 ```Install Dependencies
 npm install
